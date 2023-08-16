@@ -14,5 +14,7 @@ public class JavaC {
 		System.out.println(a+b);
 		
 		System.out.println("Thanks for the changes");
+
+		int r = a+b;
 	}
 }
